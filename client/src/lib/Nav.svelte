@@ -6,7 +6,12 @@
 <style>
   nav {
     background-color: red;
-    padding: 0;
-    margin: 0;
+    padding: 15px;
+    font-family: sans-serif;
+  }
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
   }
 </style>
