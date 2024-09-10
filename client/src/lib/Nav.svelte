@@ -5,7 +5,7 @@
 
 <style>
   nav {
-    background-color: red;
+    background-color: rgb(107, 107, 205);
     padding: 15px;
     font-family: sans-serif;
   }
